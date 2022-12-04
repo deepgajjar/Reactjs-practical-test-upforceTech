@@ -1,0 +1,14 @@
+#acceptTerms {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  box-shadow: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 1px;
+  border: none;
+  cursor: pointer;
+}
+#acceptTerms:checked {
+  background-color: rgb(8, 245, 134);
+}

@@ -1,0 +1,34 @@
+{
+  "form": {
+    "fanAccount": "Create Your Fan Account",
+    "talentAccount": "Create your Talent Account",
+    "FirstName": "First Name*",
+    "firstName": "first_name",
+    "LastName": "Last Name*",
+    "lastName": "last_name",
+    "Uname": "Username*",
+    "uname": "username",
+    "Email": "Email*",
+    "email": "email",
+    "Password": "Password*",
+    "password": "password"
+  },
+  "validationMsg": {
+    "minimum_three_char": "Must be 3 characters or more",
+    "maximu_fifty_char": "Must be 50 characters or less",
+    "invalid_email": "Invalid email address",
+    "minimu_password": "Must be 8 characters or more",
+    "maximum_password": "Must be 14 characters or less",
+    "required": "Required",
+    "password_regex_msg": "Password must be contain capital,lower letter number and special symbol"
+  },
+  "common": {
+    "agreeTxt": "i agree to the",
+    "term_and_condition": "Terms and Condition",
+    "talent_signup": "TALENT SIGNUP",
+    "fan_signup": "FAN SIGNUP",
+    "success_msg":"You have signed successfully.",
+    "error_msg":"Something went wrong plese signup again.",
+    "sign_up_txt":"SIGN UP"
+  }
+}
